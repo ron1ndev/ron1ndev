@@ -1,6 +1,6 @@
 ![Header](https://github.com/ron1ndev/ron1ndev/blob/main/assets/test.jpg)
 
-About me
+## I'm a frontend developer
 
 Languages and Tools
 
