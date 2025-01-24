@@ -3,6 +3,7 @@
 ## I'm a frontend developer
 
 Languages and Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,git,figma)](https://skillicons.dev)
 
 Follow me
