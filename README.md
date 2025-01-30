@@ -4,6 +4,6 @@
 
 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,git)](https://skillicons.dev)
 
 Follow me
